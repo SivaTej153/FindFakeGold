@@ -61,7 +61,7 @@ Select bar 5 and confirm.<br>
 <b>Efficiency of the Algorithm:</b> This algorithm ensures that the fake gold bar is found in a maximum of two weighings. By consistently reducing the problem size by two-thirds in the first weighing and by half in the second, the algorithm minimizes the number of comparisons needed, ensuring an efficient solution.<br>
 
 #### Alternative Approaches Considered
-<b>Binary Search Method:</b> Although dividing the bars into smaller groups and comparing them pair by pair could work, it would require more weighings in some cases, making it less efficient than the chosen method.
+<b>Binary Search Method:</b> Although dividing the bars into smaller groups and comparing them pair by pair could work, it would require more weighings in some cases, making it less efficient than the chosen method.<br>
 <b>Single Bar Comparison:</b> Weighing one bar at a time was dismissed due to inefficiency, as it would require up to eight weighings.
 
 #### Conclusion
